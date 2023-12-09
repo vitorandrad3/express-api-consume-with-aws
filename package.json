@@ -1,7 +1,7 @@
 {
-  "name": "consulta-de-api",
+  "name": "my-api",
   "version": "1.0.0",
-  "description": "Avaliação da terceira sprint do programa de bolsas Compass UOL para formação em machine learning para AWS.",
+  "description": "api-consume",
   "main": "src/index.js",
   "private": true,
   "dependencies": {
