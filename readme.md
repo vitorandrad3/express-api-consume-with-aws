@@ -13,7 +13,8 @@ Primeiramente implementamos o Docker na aplicação inserindo os arquivos ``Dock
 
 O deploy do projeto foi baseado na ferramenta Elastic Beanstalk da AWS, a qual é responsável pelo gerenciamento dos recursos necessários para o funcionamento da aplicação, exemplificado no diagrama de arquitetura abaixo:
 
-   ![Diagrama de Arquitetura](https://i.imgur.com/69vmGOZ.png)
+   ![image](https://github.com/vitorandrad3/express-api-consume-with-aws/assets/121817324/043d63e6-3134-40ba-83e2-592033956a96)
+
 
 ### Caracteristicas do projeto
 - Melhoria no tratamento dos erros utilizando um Middleware de erros.
